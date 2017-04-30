@@ -1,0 +1,15 @@
+{
+  "name": "eddbc/zkill-lib-php",
+  "description": "Zkillboard API Client library",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "EddBC",
+      "email": "yddebc@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "6.2.3"
+  }
+}
