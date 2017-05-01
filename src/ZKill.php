@@ -3,11 +3,12 @@
 use GuzzleHttp\Client;
 use JsonMapper;
 use Psr\Http\Message\ResponseInterface;
-use ZKill\Kill\Kill;
+use ZKill\Kill;
 
 class ZKill {
 
 	private $user_agent;
+	private $query_str = "";
 
 	/**
 	 * Zkill constructor.
@@ -19,25 +20,35 @@ class ZKill {
 	}
 
 
-	/**
-	 * @param $corp_id
-	 *
-	 * @return $this
-	 */
+	private function addQuery($query, $value = false){
+		$add = $query."/";
+		if($value){
+			$add.=$value."/";
+		}
+		$this->query_str.=$add;
+	}
+
+	function character($character_id){
+		$this->addQuery("character", $character_id);
+		return $this;
+	}
+
 	function corp($corp_id){
-
+		$this->addQuery("corp", $corp_id);
 		return $this;
 	}
 
-	/**
-	 * @param $alliance_id
-	 *
-	 * @return $this
-	 */
 	function alliance($alliance_id){
-
+		$this->addQuery("alliance", $alliance_id);
 		return $this;
 	}
+
+	function limit($limit){
+		$this->addQuery("limit", $limit);
+		return $this;
+	}
+
+
 
 	private function client() {
 		return new Client([
@@ -55,13 +66,13 @@ class ZKill {
 	function get() {
 
 		/** @var ResponseInterface $resp */
-		$resp =  $this->client()->request('GET', 'character/91872672/limit/5/');
+		$resp =  $this->client()->request('GET', $this->query_str);
 		$json = \GuzzleHttp\json_decode($resp->getBody());
 
 		$mapper = new JsonMapper();
 		/** @var Kill[] $killArr */
 		$killArr = $mapper->mapArray(
-			$json, array(), '\ZKill\Kill\Kill'
+			$json, array(), '\ZKill\Kill'
 		);
 
 		return $killArr;

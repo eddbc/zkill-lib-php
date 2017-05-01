@@ -1,6 +1,6 @@
 <?php
 
-namespace ZKill\Kill;
+namespace ZKill;
 
 class Victim {
 	public $shipTypeID;

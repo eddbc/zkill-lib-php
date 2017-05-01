@@ -1,4 +1,4 @@
-<?php namespace ZKill\Kill;
+<?php namespace ZKill;
 
 
 /*
@@ -22,6 +22,8 @@
 		...
     }
  */
+use ZKill\Victim;
+
 class Kill {
 
 	/** @var int $killID */
