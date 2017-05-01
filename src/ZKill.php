@@ -1,7 +1,9 @@
 <?php namespace ZKill;
 
 use GuzzleHttp\Client;
+use JsonMapper;
 use Psr\Http\Message\ResponseInterface;
+use ZKill\Kill\Kill;
 
 class ZKill {
 
@@ -48,12 +50,20 @@ class ZKill {
 
 
 	/**
-	 * @return ResponseInterface
+	 * @return Kill[]
 	 */
 	function get() {
 
 		/** @var ResponseInterface $resp */
 		$resp =  $this->client()->request('GET', 'character/91872672/limit/5/');
-		return $resp;
+		$json = \GuzzleHttp\json_decode($resp->getBody());
+
+		$mapper = new JsonMapper();
+		/** @var Kill[] $killArr */
+		$killArr = $mapper->mapArray(
+			$json, array(), '\ZKill\Kill\Kill'
+		);
+
+		return $killArr;
 	}
 }

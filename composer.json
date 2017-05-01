@@ -11,7 +11,8 @@
   ],
   "require": {
     "guzzlehttp/guzzle": "6.2.3",
-    "phpunit/phpunit": "^5.7"
+    "phpunit/phpunit": "^5.7",
+    "netresearch/jsonmapper": "dev-master"
   },
   "autoload": {
     "psr-4": {

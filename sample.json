@@ -1,0 +1,2095 @@
+[
+  {
+    "killID": 61874071,
+    "solarSystemID": 30001076,
+    "killTime": "2017-04-27 20:13:46",
+    "moonID": 0,
+    "victim": {
+      "shipTypeID": 670,
+      "characterID": 91872672,
+      "characterName": "Edd Reynolds",
+      "corporationID": 98326834,
+      "corporationName": "Jump Drive Appreciation Society",
+      "allianceID": 99007126,
+      "allianceName": "Jump Drive Appreciation Alliance",
+      "factionID": 0,
+      "factionName": "",
+      "damageTaken": 460
+    },
+    "attackers": [
+      {
+        "characterID": 90929265,
+        "characterName": "Tema Piterskiy",
+        "corporationID": 98360018,
+        "corporationName": "Elite pilots",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -2.4,
+        "damageDone": 322,
+        "finalBlow": 1,
+        "weaponTypeID": 27387,
+        "shipTypeID": 33818
+      },
+      {
+        "characterID": 95467212,
+        "characterName": "Richard Jomshof",
+        "corporationID": 98177721,
+        "corporationName": "Rapid Withdrawal",
+        "allianceID": 99006625,
+        "allianceName": "Pen Is Out",
+        "factionID": 500004,
+        "factionName": "Gallente Federation",
+        "securityStatus": -10,
+        "damageDone": 138,
+        "finalBlow": 0,
+        "weaponTypeID": 22456,
+        "shipTypeID": 22456
+      }
+    ],
+    "items": [
+      {
+        "typeID": 3117,
+        "flag": 89,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      }
+    ],
+    "position": {
+      "y": -379337071122.82,
+      "x": -5287302873584.4,
+      "z": 3214348983977.5
+    },
+    "zkb": {
+      "locationID": 50000314,
+      "hash": "5a31eb4e73a94995e71420ec97ab330153efd686",
+      "totalValue": 6884137.61,
+      "points": 1,
+      "npc": false
+    }
+  },
+  {
+    "killID": 61874066,
+    "solarSystemID": 30001076,
+    "killTime": "2017-04-27 20:13:33",
+    "moonID": 0,
+    "victim": {
+      "shipTypeID": 644,
+      "characterID": 91872672,
+      "characterName": "Edd Reynolds",
+      "corporationID": 98326834,
+      "corporationName": "Jump Drive Appreciation Society",
+      "allianceID": 99007126,
+      "allianceName": "Jump Drive Appreciation Alliance",
+      "factionID": 0,
+      "factionName": "",
+      "damageTaken": 23685
+    },
+    "attackers": [
+      {
+        "characterID": 92494990,
+        "characterName": "Serhio Hita",
+        "corporationID": 98273633,
+        "corporationName": "The Bremen Town Musicians",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -6.1,
+        "damageDone": 5284,
+        "finalBlow": 0,
+        "weaponTypeID": 27371,
+        "shipTypeID": 22444
+      },
+      {
+        "characterID": 1197267553,
+        "characterName": "Proto16",
+        "corporationID": 1698858600,
+        "corporationName": "Russian Thunder Squad",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -10,
+        "damageDone": 3573,
+        "finalBlow": 0,
+        "weaponTypeID": 22444,
+        "shipTypeID": 22444
+      },
+      {
+        "characterID": 491838376,
+        "characterName": "Prox XQ",
+        "corporationID": 1698858600,
+        "corporationName": "Russian Thunder Squad",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -9.7,
+        "damageDone": 2737,
+        "finalBlow": 0,
+        "weaponTypeID": 22444,
+        "shipTypeID": 22444
+      },
+      {
+        "characterID": 94382704,
+        "characterName": "Sosni Ka",
+        "corporationID": 98360018,
+        "corporationName": "Elite pilots",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -10,
+        "damageDone": 1955,
+        "finalBlow": 0,
+        "weaponTypeID": 29986,
+        "shipTypeID": 29986
+      },
+      {
+        "characterID": 95525497,
+        "characterName": "Ownage Activated",
+        "corporationID": 98360018,
+        "corporationName": "Elite pilots",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -10,
+        "damageDone": 1399,
+        "finalBlow": 0,
+        "weaponTypeID": 22444,
+        "shipTypeID": 22444
+      },
+      {
+        "characterID": 91462600,
+        "characterName": "Sergio63rus Ept",
+        "corporationID": 325582307,
+        "corporationName": "Surreal corp",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -9.9,
+        "damageDone": 1382,
+        "finalBlow": 1,
+        "weaponTypeID": 2969,
+        "shipTypeID": 22444
+      },
+      {
+        "characterID": 1167471784,
+        "characterName": "PAVianus",
+        "corporationID": 1698858600,
+        "corporationName": "Russian Thunder Squad",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -6.2,
+        "damageDone": 1303,
+        "finalBlow": 0,
+        "weaponTypeID": 29986,
+        "shipTypeID": 29986
+      },
+      {
+        "characterID": 1785465438,
+        "characterName": "Schmell",
+        "corporationID": 1698858600,
+        "corporationName": "Russian Thunder Squad",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 0.1,
+        "damageDone": 1162,
+        "finalBlow": 0,
+        "weaponTypeID": 22444,
+        "shipTypeID": 22444
+      },
+      {
+        "characterID": 1130066032,
+        "characterName": "Komolov",
+        "corporationID": 98278810,
+        "corporationName": "Roulette.",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -9.9,
+        "damageDone": 1121,
+        "finalBlow": 0,
+        "weaponTypeID": 21640,
+        "shipTypeID": 20125
+      },
+      {
+        "characterID": 93579196,
+        "characterName": "Mikki78 Karulin",
+        "corporationID": 98360018,
+        "corporationName": "Elite pilots",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -1.6,
+        "damageDone": 971,
+        "finalBlow": 0,
+        "weaponTypeID": 29986,
+        "shipTypeID": 29986
+      },
+      {
+        "characterID": 90929265,
+        "characterName": "Tema Piterskiy",
+        "corporationID": 98360018,
+        "corporationName": "Elite pilots",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -2.4,
+        "damageDone": 916,
+        "finalBlow": 0,
+        "weaponTypeID": 27387,
+        "shipTypeID": 33818
+      },
+      {
+        "characterID": 92977368,
+        "characterName": "Captain Inkura",
+        "corporationID": 98360018,
+        "corporationName": "Elite pilots",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -1.8,
+        "damageDone": 711,
+        "finalBlow": 0,
+        "weaponTypeID": 27441,
+        "shipTypeID": 29984
+      },
+      {
+        "characterID": 92875761,
+        "characterName": "Alex Shtirlic",
+        "corporationID": 1698858600,
+        "corporationName": "Russian Thunder Squad",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -4.7,
+        "damageDone": 673,
+        "finalBlow": 0,
+        "weaponTypeID": 31882,
+        "shipTypeID": 17715
+      },
+      {
+        "characterID": 97048061,
+        "characterName": "Hinna Niriwa",
+        "corporationID": 98360018,
+        "corporationName": "Elite pilots",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -9.6,
+        "damageDone": 273,
+        "finalBlow": 0,
+        "weaponTypeID": 27387,
+        "shipTypeID": 34828
+      },
+      {
+        "characterID": 93059704,
+        "characterName": "Ernest Onzo",
+        "corporationID": 98360018,
+        "corporationName": "Elite pilots",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -1.2,
+        "damageDone": 135,
+        "finalBlow": 0,
+        "weaponTypeID": 2488,
+        "shipTypeID": 11978
+      },
+      {
+        "characterID": 95467212,
+        "characterName": "Richard Jomshof",
+        "corporationID": 98177721,
+        "corporationName": "Rapid Withdrawal",
+        "allianceID": 99006625,
+        "allianceName": "Pen Is Out",
+        "factionID": 500004,
+        "factionName": "Gallente Federation",
+        "securityStatus": -10,
+        "damageDone": 90,
+        "finalBlow": 0,
+        "weaponTypeID": 22456,
+        "shipTypeID": 22456
+      },
+      {
+        "characterID": 442502245,
+        "characterName": "Butich",
+        "corporationID": 98103081,
+        "corporationName": "EvE Champions",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -0.8,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 448,
+        "shipTypeID": 33818
+      },
+      {
+        "characterID": 1225731855,
+        "characterName": "Alter Brain",
+        "corporationID": 1698858600,
+        "corporationName": "Russian Thunder Squad",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 1.9,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 448,
+        "shipTypeID": 11198
+      },
+      {
+        "characterID": 168254374,
+        "characterName": "Namaraa",
+        "corporationID": 1698858600,
+        "corporationName": "Russian Thunder Squad",
+        "allianceID": 99005015,
+        "allianceName": "Project.Mayhem.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -7.5,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 448,
+        "shipTypeID": 11198
+      }
+    ],
+    "items": [
+      {
+        "typeID": 27453,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1000,
+        "singleton": 0
+      },
+      {
+        "typeID": 22291,
+        "flag": 11,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 27441,
+        "flag": 28,
+        "qtyDropped": 0,
+        "qtyDestroyed": 25,
+        "singleton": 0
+      },
+      {
+        "typeID": 27441,
+        "flag": 5,
+        "qtyDropped": 2802,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 4383,
+        "flag": 22,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 27447,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1000,
+        "singleton": 0
+      },
+      {
+        "typeID": 33450,
+        "flag": 32,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 33450,
+        "flag": 27,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 27441,
+        "flag": 31,
+        "qtyDropped": 0,
+        "qtyDestroyed": 25,
+        "singleton": 0
+      },
+      {
+        "typeID": 12084,
+        "flag": 19,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 27435,
+        "flag": 5,
+        "qtyDropped": 1000,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 33450,
+        "flag": 28,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2605,
+        "flag": 16,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 33103,
+        "flag": 17,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 32014,
+        "flag": 21,
+        "qtyDropped": 6,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 11269,
+        "flag": 14,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 32014,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 12,
+        "singleton": 0
+      },
+      {
+        "typeID": 25896,
+        "flag": 92,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 3244,
+        "flag": 23,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 35790,
+        "flag": 20,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2048,
+        "flag": 12,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 35794,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 27441,
+        "flag": 33,
+        "qtyDropped": 25,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 33450,
+        "flag": 33,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 33450,
+        "flag": 29,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2605,
+        "flag": 15,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 11269,
+        "flag": 13,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 28668,
+        "flag": 5,
+        "qtyDropped": 572,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 26322,
+        "flag": 94,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 16475,
+        "flag": 30,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 33450,
+        "flag": 31,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 3578,
+        "flag": 21,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 27441,
+        "flag": 29,
+        "qtyDropped": 0,
+        "qtyDestroyed": 25,
+        "singleton": 0
+      },
+      {
+        "typeID": 28668,
+        "flag": 17,
+        "qtyDropped": 56,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 23705,
+        "flag": 87,
+        "qtyDropped": 0,
+        "qtyDestroyed": 5,
+        "singleton": 0
+      },
+      {
+        "typeID": 35795,
+        "flag": 20,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 26030,
+        "flag": 93,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 27441,
+        "flag": 32,
+        "qtyDropped": 25,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 31890,
+        "flag": 87,
+        "qtyDropped": 0,
+        "qtyDestroyed": 5,
+        "singleton": 0
+      },
+      {
+        "typeID": 27441,
+        "flag": 27,
+        "qtyDropped": 0,
+        "qtyDestroyed": 25,
+        "singleton": 0
+      },
+      {
+        "typeID": 2488,
+        "flag": 87,
+        "qtyDropped": 5,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      }
+    ],
+    "position": {
+      "y": -379337070964.59,
+      "x": -5287302871111.9,
+      "z": 3214348984154.7
+    },
+    "zkb": {
+      "locationID": 50000314,
+      "hash": "02419a8b96cd26a32b1041b31820b3056c2b8653",
+      "totalValue": 281803007.08,
+      "points": 1,
+      "npc": false
+    }
+  },
+  {
+    "killID": 61874013,
+    "solarSystemID": 30001076,
+    "killTime": "2017-04-27 20:11:38",
+    "moonID": 0,
+    "victim": {
+      "shipTypeID": 17634,
+      "characterID": 96812697,
+      "characterName": "Nebunu93",
+      "corporationID": 98442926,
+      "corporationName": "HIgh Sec Care Bears",
+      "allianceID": 99003006,
+      "allianceName": "Brothers of Tangra",
+      "factionID": 0,
+      "factionName": "",
+      "damageTaken": 8442
+    },
+    "attackers": [
+      {
+        "characterID": 93704731,
+        "characterName": "Cade Kenobi",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -9.6,
+        "damageDone": 3391,
+        "finalBlow": 1,
+        "weaponTypeID": 3520,
+        "shipTypeID": 17709
+      },
+      {
+        "characterID": 595122284,
+        "characterName": "Raethrius",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 0,
+        "damageDone": 2771,
+        "finalBlow": 0,
+        "weaponTypeID": 3244,
+        "shipTypeID": 17709
+      },
+      {
+        "characterID": 92019423,
+        "characterName": "Surculus Sylo",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -0.5,
+        "damageDone": 2201,
+        "finalBlow": 0,
+        "weaponTypeID": 17709,
+        "shipTypeID": 17709
+      },
+      {
+        "characterID": 95424317,
+        "characterName": "Surculus Lemur",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 0,
+        "damageDone": 79,
+        "finalBlow": 0,
+        "weaponTypeID": 8869,
+        "shipTypeID": 22456
+      },
+      {
+        "characterID": 93660038,
+        "characterName": "Ashleigh Reynolds",
+        "corporationID": 98224639,
+        "corporationName": "Dirt 'n' Glitter",
+        "allianceID": 99006941,
+        "allianceName": "Siege Green.",
+        "factionID": 500003,
+        "factionName": "Amarr Empire",
+        "securityStatus": -2,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 3244,
+        "shipTypeID": 11198
+      },
+      {
+        "characterID": 91872672,
+        "characterName": "Edd Reynolds",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -0.8,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 33450,
+        "shipTypeID": 644
+      },
+      {
+        "characterID": 93715696,
+        "characterName": "Delxine Schereau",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 3.1,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 448,
+        "shipTypeID": 11198
+      }
+    ],
+    "items": [
+      {
+        "typeID": 12068,
+        "flag": 19,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      }
+    ],
+    "position": {
+      "y": -20627236142.54,
+      "x": -287778434982.55,
+      "z": 2150330759381.8
+    },
+    "zkb": {
+      "locationID": 50000316,
+      "hash": "0ec9f750974b1993e609288c97bcf4e86c765705",
+      "totalValue": 62097461.47,
+      "points": 1,
+      "npc": false
+    }
+  },
+  {
+    "killID": 61873893,
+    "solarSystemID": 30001069,
+    "killTime": "2017-04-27 20:07:40",
+    "moonID": 0,
+    "victim": {
+      "shipTypeID": 12753,
+      "characterID": 114390674,
+      "characterName": "Liten Lorian",
+      "corporationID": 98208600,
+      "corporationName": "Solitary Men",
+      "allianceID": 0,
+      "allianceName": "",
+      "factionID": 0,
+      "factionName": "",
+      "damageTaken": 11349
+    },
+    "attackers": [
+      {
+        "characterID": 93704731,
+        "characterName": "Cade Kenobi",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -9.6,
+        "damageDone": 8998,
+        "finalBlow": 1,
+        "weaponTypeID": 3520,
+        "shipTypeID": 17709
+      },
+      {
+        "characterID": 91872672,
+        "characterName": "Edd Reynolds",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -0.8,
+        "damageDone": 2351,
+        "finalBlow": 0,
+        "weaponTypeID": 27441,
+        "shipTypeID": 644
+      },
+      {
+        "characterID": 595122284,
+        "characterName": "Raethrius",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 0,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 3244,
+        "shipTypeID": 17709
+      },
+      {
+        "characterID": 93715696,
+        "characterName": "Delxine Schereau",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 3.1,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 448,
+        "shipTypeID": 11198
+      },
+      {
+        "characterID": 93660038,
+        "characterName": "Ashleigh Reynolds",
+        "corporationID": 98224639,
+        "corporationName": "Dirt 'n' Glitter",
+        "allianceID": 99006941,
+        "allianceName": "Siege Green.",
+        "factionID": 500003,
+        "factionName": "Amarr Empire",
+        "securityStatus": -2,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 448,
+        "shipTypeID": 11198
+      }
+    ],
+    "items": [
+      {
+        "typeID": 2969,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 27453,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1000,
+        "singleton": 0
+      },
+      {
+        "typeID": 3138,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 2,
+        "singleton": 0
+      },
+      {
+        "typeID": 3138,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 1405,
+        "flag": 13,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 17466,
+        "flag": 155,
+        "qtyDropped": 811,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 27441,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 80,
+        "singleton": 0
+      },
+      {
+        "typeID": 27387,
+        "flag": 5,
+        "qtyDropped": 3719,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 11640,
+        "flag": 17,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2873,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 2048,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 2048,
+        "flag": 5,
+        "qtyDropped": 2,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 22291,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 3,
+        "singleton": 0
+      },
+      {
+        "typeID": 22291,
+        "flag": 5,
+        "qtyDropped": 6,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 21912,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 2903,
+        "singleton": 0
+      },
+      {
+        "typeID": 31167,
+        "flag": 92,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 41489,
+        "flag": 155,
+        "qtyDropped": 120,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 27361,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1566,
+        "singleton": 0
+      },
+      {
+        "typeID": 4405,
+        "flag": 155,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 10250,
+        "flag": 5,
+        "qtyDropped": 5,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 11577,
+        "flag": 27,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 33332,
+        "flag": 155,
+        "qtyDropped": 9,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 22782,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 28336,
+        "flag": 5,
+        "qtyDropped": 1000,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 31167,
+        "flag": 93,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 18594,
+        "flag": 5,
+        "qtyDropped": 14,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 42830,
+        "flag": 155,
+        "qtyDropped": 5674,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 42831,
+        "flag": 155,
+        "qtyDropped": 4533,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 3888,
+        "flag": 155,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2889,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 2889,
+        "flag": 155,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 10250,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 10250,
+        "flag": 155,
+        "qtyDropped": 2,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 1877,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 11,
+        "singleton": 0
+      },
+      {
+        "typeID": 1877,
+        "flag": 5,
+        "qtyDropped": 5,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 230,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 8230,
+        "singleton": 0
+      },
+      {
+        "typeID": 1405,
+        "flag": 15,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 43551,
+        "flag": 155,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2605,
+        "flag": 12,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 32006,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 1999,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 1999,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 12767,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 580,
+        "singleton": 0
+      },
+      {
+        "typeID": 12785,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 178,
+        "singleton": 0
+      },
+      {
+        "typeID": 35771,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2605,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 29011,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 12777,
+        "flag": 155,
+        "qtyDropped": 862,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 32006,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 48,
+        "singleton": 0
+      },
+      {
+        "typeID": 448,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 42829,
+        "flag": 155,
+        "qtyDropped": 289,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2488,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 3,
+        "singleton": 0
+      },
+      {
+        "typeID": 2488,
+        "flag": 155,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 32772,
+        "flag": 155,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 28668,
+        "flag": 5,
+        "qtyDropped": 140,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 527,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 17436,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 472,
+        "singleton": 0
+      },
+      {
+        "typeID": 27371,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 12,
+        "singleton": 0
+      },
+      {
+        "typeID": 1405,
+        "flag": 14,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 24495,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 990,
+        "singleton": 0
+      },
+      {
+        "typeID": 12076,
+        "flag": 19,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 33915,
+        "flag": 20,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 3568,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 3,
+        "singleton": 0
+      },
+      {
+        "typeID": 3568,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2605,
+        "flag": 11,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 12267,
+        "flag": 155,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2446,
+        "flag": 155,
+        "qtyDropped": 39,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 11640,
+        "flag": 16,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 21896,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 19,
+        "singleton": 0
+      },
+      {
+        "typeID": 2629,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1000,
+        "singleton": 0
+      },
+      {
+        "typeID": 22778,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 21922,
+        "flag": 5,
+        "qtyDropped": 1860,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 5975,
+        "flag": 5,
+        "qtyDropped": 3,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 19814,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 2281,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 3,
+        "singleton": 0
+      },
+      {
+        "typeID": 2281,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 2464,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 24499,
+        "flag": 5,
+        "qtyDropped": 1006,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 17432,
+        "flag": 155,
+        "qtyDropped": 1259,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 24443,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 23527,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 3841,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 3,
+        "singleton": 0
+      },
+      {
+        "typeID": 35659,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      }
+    ],
+    "position": {
+      "y": 1616705015235.6,
+      "x": -5646422125305.8,
+      "z": -1117239345706.6
+    },
+    "zkb": {
+      "locationID": 50001124,
+      "hash": "afa1566147a518b29b51fe96c86a7b0a0b55734e",
+      "totalValue": 415048171.54,
+      "points": 1,
+      "npc": false
+    }
+  },
+  {
+    "killID": 61854862,
+    "solarSystemID": 30004797,
+    "killTime": "2017-04-26 21:27:36",
+    "moonID": 0,
+    "victim": {
+      "shipTypeID": 23911,
+      "characterID": 94478640,
+      "characterName": "Nagy Medve",
+      "corporationID": 98412312,
+      "corporationName": "Kerge Marha Corp.",
+      "allianceID": 99002119,
+      "allianceName": "pwn-O-graphy",
+      "factionID": 0,
+      "factionName": "",
+      "damageTaken": 677974
+    },
+    "attackers": [
+      {
+        "characterID": 0,
+        "characterName": "",
+        "corporationID": 0,
+        "corporationName": "",
+        "allianceID": 0,
+        "allianceName": "",
+        "factionID": 500012,
+        "factionName": "Blood Raider Covenant",
+        "securityStatus": 0,
+        "damageDone": 434874,
+        "finalBlow": 0,
+        "weaponTypeID": 0,
+        "shipTypeID": 24140
+      },
+      {
+        "characterID": 1980591562,
+        "characterName": "Marciniusz Solo",
+        "corporationID": 1831131676,
+        "corporationName": "V0LTA",
+        "allianceID": 99005839,
+        "allianceName": "WE FORM V0LTA",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -4.2,
+        "damageDone": 51696,
+        "finalBlow": 0,
+        "weaponTypeID": 2629,
+        "shipTypeID": 29984
+      },
+      {
+        "characterID": 92191317,
+        "characterName": "Soldier Forrester",
+        "corporationID": 1831131676,
+        "corporationName": "V0LTA",
+        "allianceID": 99005839,
+        "allianceName": "WE FORM V0LTA",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -4.6,
+        "damageDone": 47141,
+        "finalBlow": 0,
+        "weaponTypeID": 2679,
+        "shipTypeID": 29984
+      },
+      {
+        "characterID": 1653154341,
+        "characterName": "Col Deathstroke",
+        "corporationID": 1831131676,
+        "corporationName": "V0LTA",
+        "allianceID": 99005839,
+        "allianceName": "WE FORM V0LTA",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -1,
+        "damageDone": 35195,
+        "finalBlow": 0,
+        "weaponTypeID": 2410,
+        "shipTypeID": 29984
+      },
+      {
+        "characterID": 966647414,
+        "characterName": "Thuvia Golgotha",
+        "corporationID": 1831131676,
+        "corporationName": "V0LTA",
+        "allianceID": 99005839,
+        "allianceName": "WE FORM V0LTA",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -9.9,
+        "damageDone": 30803,
+        "finalBlow": 0,
+        "weaponTypeID": 4302,
+        "shipTypeID": 4302
+      },
+      {
+        "characterID": 190224792,
+        "characterName": "WaTeR Ubersnol",
+        "corporationID": 98070494,
+        "corporationName": "TURN LEFT",
+        "allianceID": 551692893,
+        "allianceName": "HYDRA RELOADED",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -6.8,
+        "damageDone": 18972,
+        "finalBlow": 0,
+        "weaponTypeID": 2205,
+        "shipTypeID": 17718
+      },
+      {
+        "characterID": 904885984,
+        "characterName": "Lubomir Penev",
+        "corporationID": 1831131676,
+        "corporationName": "V0LTA",
+        "allianceID": 99005839,
+        "allianceName": "WE FORM V0LTA",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 1,
+        "damageDone": 17410,
+        "finalBlow": 1,
+        "weaponTypeID": 2679,
+        "shipTypeID": 29984
+      },
+      {
+        "characterID": 93704731,
+        "characterName": "Cade Kenobi",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -9.6,
+        "damageDone": 13749,
+        "finalBlow": 0,
+        "weaponTypeID": 27441,
+        "shipTypeID": 29984
+      },
+      {
+        "characterID": 91766211,
+        "characterName": "Keira Jelatin",
+        "corporationID": 98070494,
+        "corporationName": "TURN LEFT",
+        "allianceID": 551692893,
+        "allianceName": "HYDRA RELOADED",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 1.9,
+        "damageDone": 7511,
+        "finalBlow": 0,
+        "weaponTypeID": 27361,
+        "shipTypeID": 33818
+      },
+      {
+        "characterID": 92524847,
+        "characterName": "Ann Karas",
+        "corporationID": 849473841,
+        "corporationName": "Beach Boys",
+        "allianceID": 99005724,
+        "allianceName": "The Minions.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -5.6,
+        "damageDone": 6758,
+        "finalBlow": 0,
+        "weaponTypeID": 2629,
+        "shipTypeID": 29984
+      },
+      {
+        "characterID": 124091871,
+        "characterName": "Ala Bamma",
+        "corporationID": 849473841,
+        "corporationName": "Beach Boys",
+        "allianceID": 99005724,
+        "allianceName": "The Minions.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 2.8,
+        "damageDone": 6646,
+        "finalBlow": 0,
+        "weaponTypeID": 2175,
+        "shipTypeID": 17715
+      },
+      {
+        "characterID": 1257051065,
+        "characterName": "Asoy2",
+        "corporationID": 98336299,
+        "corporationName": "Blackjack and Exotic Dancers",
+        "allianceID": 99006795,
+        "allianceName": "Top Tier",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 4.9,
+        "damageDone": 3922,
+        "finalBlow": 0,
+        "weaponTypeID": 2488,
+        "shipTypeID": 11978
+      },
+      {
+        "characterID": 91651988,
+        "characterName": "Darcik",
+        "corporationID": 740060715,
+        "corporationName": "Virtual Democracy",
+        "allianceID": 99005724,
+        "allianceName": "The Minions.",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": 2.1,
+        "damageDone": 1759,
+        "finalBlow": 0,
+        "weaponTypeID": 27339,
+        "shipTypeID": 12034
+      },
+      {
+        "characterID": 1905379957,
+        "characterName": "FistyMcBumBardier",
+        "corporationID": 98070494,
+        "corporationName": "TURN LEFT",
+        "allianceID": 551692893,
+        "allianceName": "HYDRA RELOADED",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -4.1,
+        "damageDone": 802,
+        "finalBlow": 0,
+        "weaponTypeID": 12003,
+        "shipTypeID": 12003
+      },
+      {
+        "characterID": 91872672,
+        "characterName": "Edd Reynolds",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -0.8,
+        "damageDone": 478,
+        "finalBlow": 0,
+        "weaponTypeID": 22456,
+        "shipTypeID": 22456
+      },
+      {
+        "characterID": 633636688,
+        "characterName": "Bty",
+        "corporationID": 1831131676,
+        "corporationName": "V0LTA",
+        "allianceID": 99005839,
+        "allianceName": "WE FORM V0LTA",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -1.1,
+        "damageDone": 209,
+        "finalBlow": 0,
+        "weaponTypeID": 2205,
+        "shipTypeID": 11978
+      },
+      {
+        "characterID": 91792833,
+        "characterName": "TurgidMeatWand",
+        "corporationID": 98070494,
+        "corporationName": "TURN LEFT",
+        "allianceID": 551692893,
+        "allianceName": "HYDRA RELOADED",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -1.9,
+        "damageDone": 49,
+        "finalBlow": 0,
+        "weaponTypeID": 22456,
+        "shipTypeID": 22456
+      },
+      {
+        "characterID": 92019423,
+        "characterName": "Surculus Sylo",
+        "corporationID": 98326834,
+        "corporationName": "Jump Drive Appreciation Society",
+        "allianceID": 99007126,
+        "allianceName": "Jump Drive Appreciation Alliance",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -0.5,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 2873,
+        "shipTypeID": 22456
+      },
+      {
+        "characterID": 93165839,
+        "characterName": "Scotty Smartypants",
+        "corporationID": 1831131676,
+        "corporationName": "V0LTA",
+        "allianceID": 99005839,
+        "allianceName": "WE FORM V0LTA",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -0.2,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 22778,
+        "shipTypeID": 22456
+      },
+      {
+        "characterID": 1307731481,
+        "characterName": "Leviathan Tank",
+        "corporationID": 1831131676,
+        "corporationName": "V0LTA",
+        "allianceID": 99005839,
+        "allianceName": "WE FORM V0LTA",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -5.1,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 2873,
+        "shipTypeID": 22456
+      },
+      {
+        "characterID": 93892169,
+        "characterName": "Tyr Carter",
+        "corporationID": 98469727,
+        "corporationName": "Hold On To Your Dookie Its About To Get Spooky",
+        "allianceID": 99006362,
+        "allianceName": "My Mom Says Blobbing Is Bad",
+        "factionID": 0,
+        "factionName": "",
+        "securityStatus": -1.5,
+        "damageDone": 0,
+        "finalBlow": 0,
+        "weaponTypeID": 25715,
+        "shipTypeID": 29984
+      }
+    ],
+    "items": [
+      {
+        "typeID": 11642,
+        "flag": 12,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 40346,
+        "flag": 158,
+        "qtyDropped": 9,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 24283,
+        "flag": 28,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 35661,
+        "flag": 19,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 33700,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 2,
+        "singleton": 0
+      },
+      {
+        "typeID": 33700,
+        "flag": 5,
+        "qtyDropped": 3,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 4405,
+        "flag": 15,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 31374,
+        "flag": 93,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 2048,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 31374,
+        "flag": 94,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 41411,
+        "flag": 27,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 4405,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 16475,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 24283,
+        "flag": 31,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 4405,
+        "flag": 14,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 24438,
+        "flag": 22,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 24438,
+        "flag": 20,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 2032,
+        "flag": 23,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 17887,
+        "flag": 133,
+        "qtyDropped": 0,
+        "qtyDestroyed": 30000,
+        "singleton": 0
+      },
+      {
+        "typeID": 448,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 4405,
+        "flag": 16,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 11648,
+        "flag": 13,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 24283,
+        "flag": 29,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 3244,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 41500,
+        "flag": 11,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 31374,
+        "flag": 92,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 20353,
+        "flag": 5,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 11642,
+        "flag": 5,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 23055,
+        "flag": 158,
+        "qtyDropped": 41,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 24438,
+        "flag": 21,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      },
+      {
+        "typeID": 17887,
+        "flag": 155,
+        "qtyDropped": 0,
+        "qtyDestroyed": 8283,
+        "singleton": 0
+      },
+      {
+        "typeID": 24283,
+        "flag": 30,
+        "qtyDropped": 0,
+        "qtyDestroyed": 1,
+        "singleton": 0
+      },
+      {
+        "typeID": 11202,
+        "flag": 90,
+        "qtyDropped": 1,
+        "qtyDestroyed": 0,
+        "singleton": 0
+      }
+    ],
+    "position": {
+      "y": -8434458106.9828,
+      "x": -133036778306.58,
+      "z": -91300791681.973
+    },
+    "zkb": {
+      "locationID": 40303706,
+      "hash": "d43045eeaac783c94d93a598571058aa40864143",
+      "totalValue": 2475264135.71,
+      "points": 3,
+      "npc": false
+    }
+  }
+]
