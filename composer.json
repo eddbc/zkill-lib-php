@@ -1,7 +1,6 @@
 {
   "name": "eddbc/zkill-lib-php",
   "description": "Zkillboard API Client library",
-  "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
     {
