@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4148e1085abcacd2c990e0235137892a",
+    "content-hash": "8156a500abcddaf5ee4c47a71f7fbb22",
     "packages": [
         {
             "name": "doctrine/instantiator",
@@ -335,7 +335,7 @@
         },
         {
             "name": "netresearch/jsonmapper",
-            "version": "dev-master",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cweiske/jsonmapper.git",
@@ -370,7 +370,7 @@
                 }
             ],
             "description": "Map nested JSON structures onto PHP classes",
-            "time": "2017-01-27 21:01:41"
+            "time": "2017-01-27T21:01:41+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -1766,9 +1766,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "netresearch/jsonmapper": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
