@@ -10,6 +10,17 @@
     }
   ],
   "require": {
-    "guzzlehttp/guzzle": "6.2.3"
+    "guzzlehttp/guzzle": "6.2.3",
+    "phpunit/phpunit": "^5.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "ZKill\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
   }
 }
