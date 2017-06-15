@@ -13,8 +13,8 @@ class ZKill extends ZKillBase {
     /**
      * @return ZKill
      */
-    function loss(){
-        return $this->addQuery('loss');
+    function losses(){
+        return $this->addQuery('losses');
     }
 
     /**
