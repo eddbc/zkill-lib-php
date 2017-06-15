@@ -48,7 +48,6 @@ abstract class ZKillBase {
 				'User-Agent' => $this->user_agent
 			]
 		]);
-		echo $resp->getStatusCode();
 
 		$json = \GuzzleHttp\json_decode($resp->getBody());
 		return $json;

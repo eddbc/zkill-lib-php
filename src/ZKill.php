@@ -1,5 +1,7 @@
 <?php namespace ZKill;
 
+use function Sodium\add;
+
 class ZKill extends ZKillBase {
 
 
@@ -7,6 +9,13 @@ class ZKill extends ZKillBase {
     /*
      * Fetch Modifiers
      */
+
+    /**
+     * @return ZKill
+     */
+    function loss(){
+        return $this->addQuery('loss');
+    }
 
     /**
      * @param $character_id
@@ -20,8 +29,8 @@ class ZKill extends ZKillBase {
      * @param $corp_id
      * @return ZKill
      */
-    function corp($corp_id){
-		return $this->addQuery("corp", $corp_id);
+    function corporation($corp_id){
+		return $this->addQuery("corporation", $corp_id);
 	}
 
     /**
