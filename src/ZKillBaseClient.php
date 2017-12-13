@@ -1,11 +1,9 @@
 <?php namespace ZKill;
 
 use GuzzleHttp\Client;
-use JsonMapper;
 use Psr\Http\Message\ResponseInterface;
-use ZKill\Mappings\Kill;
 
-abstract class ZKillBase {
+abstract class ZKillBaseClient {
 
 	private $user_agent;
 	private $query_str = "";
@@ -51,23 +49,13 @@ abstract class ZKillBase {
 		]);
 
 		$json = \GuzzleHttp\json_decode($resp->getBody());
+		$this->clear();
 		return $json;
 	}
 
+	public abstract function get();
 
-	/**
-	 * @return Kill[]
-	 */
-	public function get() {
-
-		$json = $this->request();
-
-		$mapper = new JsonMapper();
-		/** @var Kill[] $killArr */
-		$killArr = $mapper->mapArray(
-			$json, array(), '\ZKill\Mappings\Kill'
-		);
-
-		return $killArr;
-	}
+	public function clear(){
+	    $this->query_str = "";
+    }
 }
