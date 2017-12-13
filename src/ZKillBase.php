@@ -11,12 +11,13 @@ abstract class ZKillBase {
 	private $query_str = "";
 	protected $baseUrl = 'https://zkillboard.com/api/';
 
-	/**
-	 * Zkill constructor.
-	 *
-	 * @param $user_agent
-	 */
-	public function __construct( $user_agent = "" ) {
+    /**
+     * Zkill constructor.
+     *
+     * @param string $user_agent
+     * @param array $options
+     */
+	public function __construct( $user_agent , $options = []) {
 		$this->user_agent = $user_agent;
 	}
 

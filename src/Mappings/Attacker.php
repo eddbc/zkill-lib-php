@@ -2,13 +2,13 @@
 
 class Attacker extends Character {
 
-	/** @var float $securityStatus */
-	public $securityStatus;
-	/** @var int $damageDone */
-	public $damageDone;
-	/** @var boolean $finalBlow */
-	public $finalBlow;
-	/** @var int $weaponTypeID */
-	public $weaponTypeID;
+	/** @var float $security_status */
+	public $security_status;
+	/** @var int $damage_done */
+	public $damage_done;
+	/** @var boolean $final_blow */
+	public $final_blow;
+	/** @var int $weapon_type_id */
+	public $weapon_type_id;
 
 }

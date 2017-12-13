@@ -7,7 +7,7 @@ class ZKill extends ZKillBase {
 
 
     /*
-     * Fetch Modifiers
+     * Fetch Type  Modifiers
      */
 
     /**
@@ -18,11 +18,62 @@ class ZKill extends ZKillBase {
     }
 
     /**
+     * @return ZKill
+     */
+    function kills(){
+        return $this->addQuery('kills');
+    }
+
+    /**
+     * @return ZKill
+     */
+    function w_space(){
+        return $this->addQuery('w-space');
+    }
+
+    /**
+     * @return ZKill
+     */
+    function solo(){
+        return $this->addQuery('solo');
+    }
+
+    /**
+     * @return ZKill
+     */
+    function finalBlow(){
+        return $this->addQuery('finalblow-only');
+    }
+
+    /**
+     * @param $bool Boolean
+     * @return ZKill
+     */
+    function awox($bool){
+        return $this->addQuery('awox', $bool?1:0);
+    }
+
+    /**
+     * @param $bool Boolean
+     * @return ZKill
+     */
+    function npm($bool){
+        return $this->addQuery('npc', $bool?1:0);
+    }
+
+
+
+
+    /*
+     * Fetch Modifiers
+     */
+
+    /**
      * @param $character_id
      * @return ZKill
      */
     function character($character_id){
-		return $this->addQuery("character", $character_id);
+		return $this->addQuery("characterID", $character_id);
 	}
 
     /**
@@ -30,7 +81,7 @@ class ZKill extends ZKillBase {
      * @return ZKill
      */
     function corporation($corp_id){
-		return $this->addQuery("corporation", $corp_id);
+		return $this->addQuery("corporationID", $corp_id);
 	}
 
     /**
@@ -38,7 +89,7 @@ class ZKill extends ZKillBase {
      * @return ZKill
      */
     function alliance($alliance_id){
-		return $this->addQuery("alliance", $alliance_id);
+		return $this->addQuery("allianceID", $alliance_id);
 	}
 
     /**
@@ -46,7 +97,7 @@ class ZKill extends ZKillBase {
      * @return ZKill
      */
     function faction($faction_id){
-        return $this->addQuery("faction", $faction_id);
+        return $this->addQuery("factionID", $faction_id);
     }
 
     /**
@@ -54,7 +105,7 @@ class ZKill extends ZKillBase {
      * @return ZKill
      */
     function ship($ship_id){
-        return $this->addQuery("ship", $ship_id);
+        return $this->addQuery("shipTypeID", $ship_id);
     }
 
     /**
@@ -62,7 +113,7 @@ class ZKill extends ZKillBase {
      * @return ZKill
      */
     function group($group_id){
-        return $this->addQuery("group", $group_id);
+        return $this->addQuery("groupID", $group_id);
     }
 
     /**
@@ -70,7 +121,7 @@ class ZKill extends ZKillBase {
      * @return ZKill
      */
     function system($system_id){
-        return $this->addQuery("system", $system_id);
+        return $this->addQuery("solarSystemID", $system_id);
     }
 
     /**
@@ -78,7 +129,7 @@ class ZKill extends ZKillBase {
      * @return ZKill
      */
     function region($region_id){
-        return $this->addQuery("region", $region_id);
+        return $this->addQuery("regionID", $region_id);
     }
 
     /**
@@ -86,7 +137,7 @@ class ZKill extends ZKillBase {
      * @return ZKill
      */
     function war($war_id){
-        return $this->addQuery("war", $war_id);
+        return $this->addQuery("warID", $war_id);
     }
 
     /**
@@ -95,6 +146,33 @@ class ZKill extends ZKillBase {
      */
     function iskValue($iskValue){
         return $this->addQuery("iskValue", $iskValue);
+    }
+
+
+
+    /*
+     * Information modifiers
+     */
+
+    /**
+     * @return ZKill
+     */
+    function noItems(){
+        return $this->addQuery('no-items');
+    }
+
+    /**
+     * @return ZKill
+     */
+    function noAttackers(){
+        return $this->addQuery('no-attackers');
+    }
+
+    /**
+     * @return ZKill
+     */
+    function zkbOnly(){
+        return $this->addQuery('zkbOnly');
     }
 
 
@@ -112,4 +190,12 @@ class ZKill extends ZKillBase {
     function limit($limit){
 		return $this->addQuery("limit", $limit);
 	}
+
+    /**
+     * @param $page
+     * @return ZKill
+     */
+    function page($page){
+        return $this->addQuery("page", $page);
+    }
 }

@@ -2,23 +2,15 @@
 
 class Character {
 
-	/** @var int $characterID */
-	public $characterID;
-	/** @var string $characterName */
-	public $characterName;
-	/** @var int $corporationID */
-	public $corporationID;
-	/** @var string $corporationName */
-	public $corporationName;
-	/** @var int $allianceID */
-	public $allianceID;
-	/** @var string $allianceName */
-	public $allianceName;
-	/** @var int $factionID */
-	public $factionID;
-	/** @var string $factionName */
-	public $factionName;
-	/** @var int $shipTypeID */
-	public $shipTypeID;
+	/** @var int $character_id */
+	public $character_id;
+	/** @var int $corporation_id */
+	public $corporation_id;
+	/** @var int $alliance_id */
+	public $alliance_id;
+	/** @var int $faction_id */
+	public $faction_id;
+	/** @var int $ship_type_id */
+	public $ship_type_id;
 
 }
