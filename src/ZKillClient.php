@@ -200,6 +200,14 @@ class ZKillClient extends ZKillBaseClient {
         return $this->addQuery("page", $page);
     }
 
+    /**
+     * @param $kill_id
+     * @return $this
+     */
+    function kill($kill_id){
+        return $this->addQuery('killID', $kill_id);
+    }
+
 
     /**
      * @return Kill[]
