@@ -214,7 +214,7 @@ class ZKillClient extends ZKillBaseClient {
      */
     public function get() {
 
-        $json = $this->request();
+        $json = $this->getJson();
 
         $mapper = new JsonMapper();
         /** @var Kill[] $killArr */

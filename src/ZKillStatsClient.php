@@ -12,7 +12,7 @@ class ZKillStatsClient extends ZKillBaseClient {
 	 * TODO: Map stats results
 	 */
 	public function get() {
-        $json = $this->request();
+        $json = $this->getJson();
         return $json;
     }
 

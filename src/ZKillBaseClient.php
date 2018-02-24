@@ -39,7 +39,7 @@ abstract class ZKillBaseClient {
 		]);
 	}
 
-	protected function request() {
+	public function getJson() {
 		/** @var ResponseInterface $resp */
 		$resp =  $this->client()->request('GET', $this->query_str, [
 			'http_errors'   =>  true,
