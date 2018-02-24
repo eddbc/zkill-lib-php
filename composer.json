@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "guzzlehttp/guzzle": "6.2.3",
+    "guzzlehttp/guzzle": "^6.3.0",
     "netresearch/jsonmapper": "1.1.1",
     "nesbot/carbon": "^1.22"
   },
